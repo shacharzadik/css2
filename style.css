@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+.form-wrapper {
+    padding-top: 20px;
+    width: 500px;
+    height: 667px;
+    background-color: 	#C40018;
+    border-radius: 7px;
+    margin-right: auto;
+    margin-left: auto;
+    
+
+}
+
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+   
+    
+}
+
+
+form {
+  
+    text-align: center;
+}
+
+input {
+    width:85%;
+    height: 60px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: none;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-right: 20px;
+    
+}
+
+::placeholder {
+    color: rgb(50, 50, 83);
+    text-align: right;
+    font-size: 20px;
+   
+}
+
+.submit-btn {
+    background-color: white;
+    border: none;
+    width: 200px;
+    height: 40px ;
+    color: 	#C40018;
+    font-size: 21px;
+    border-radius: 40px;
+    margin-top: 15px;
+}
+
+.forgot-pass {
+    color: white;
+    font-size: 16px;
+    display:block;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.bottum-section {
+    margin-top: 78px;
+    width:100%;
+    height: 240px;
+    background-color: 	rgb(170, 4, 26);
+    border-radius: 7px;
+    padding-top: 40px;
+   
+  
+
+}
+
+
+.large-btn {
+    
+    border: none;
+    width:85%;
+    height: 80px;
+    font-size: 22px;
+    text-align: right;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 3em;
+    border-radius: 4px;
+    color: rgb(50, 50, 83);
+    
+    
+
+}
+
+img {
+    float: right;
+    margin-left: 20px;
+    width: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    -webkit-box-reflect : below 0 -webkit-gradient(linear, left bottom, left top, from(rgba(255,255,255,0.25)), color-stop(0.2, transparent));
+}
+
+  
+.join-link {
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
